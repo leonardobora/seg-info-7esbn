@@ -1,0 +1,1 @@
+## Este aplicativo extrai mensagens ocultas de imagens PNG usando a técnica de esteganografia LSB (Least Significant Bit). Faça upload de uma imagem PNG para descobrir se ela contém alguma mensagem secreta.
